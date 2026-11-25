@@ -2,7 +2,7 @@
 Machine learning and data visualisation lab experiments implemented in python using scikit-learn, pandas, matplotlib and seabird
 # Machine Learning & Data Visualization Lab Experiments
 
-**Submitted by:** [Your Name]  
+**Submitted by:** Aditya Pratap Singh
 **Course:** Machine Learning & Data Visualization Lab  
 
 This repository contains the lab experiments for **Machine Learning (`ML`)** and **Data Visualization (`DV`)** organized in chronological order[cite: 1, 2, 3].
